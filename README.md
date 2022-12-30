@@ -1,2 +1,2 @@
 # Dashboard
-Cripto dashboard proyecto pata UCAMP
+Crypto dashboard proyecto para proyecto UCAMP
